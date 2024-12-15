@@ -1,2 +1,2 @@
-# Online_Forums
+# Simple E-commerce Store
 Author - Pooja Sree
